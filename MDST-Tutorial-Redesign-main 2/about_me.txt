@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! I'm Paco Haas. I'm a first-year student in the college of engineering planning on pursuing either Data Science or CS. A fun fact about me is that my birthday is on February 29th so I have a birthday once every 4 years!
